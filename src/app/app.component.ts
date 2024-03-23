@@ -10,4 +10,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'cwh-todo-list';
+  // constructor(){
+  //   setTimeout(()=>{
+  //     this.title="Changed title";
+  //   }, 3000);
+  // }
 }
